@@ -2,7 +2,7 @@
 Retail Orders Data Processing
 
 ## Introduction
-This project demonstrates the use of Python for data processing and database interactions. The dataset used is the `orders.csv` file from the Kaggle dataset `ankitbansal06/retail-orders`.
+This project demonstrates the use of Python for data processing and database interactions. 
 
 ## Features
 - Download retail orders dataset from Kaggle.
